@@ -1,0 +1,5 @@
+cat > ~/diadefense/src/data/activities.json << 'EOF'
+{ "activities": [
+  { "day":1, "title":"Yürüyüş", "minutes":15, "intensity":"low" }
+] }
+EOF

@@ -1,0 +1,69 @@
+{
+  "meals": [
+    {
+      "day": 1,
+      "mealType": "breakfast",
+      "name": "Kahvaltı",
+      "description": "2 adet haşlanmış yumurta, çoban salata (zeytinyağı + kekik + limon), 10-15 zeytin, 15-20 çiğ fındık veya badem. Şekersiz çay / yeşil çay / sade kahve.",
+      "carbs": 10
+    },
+    {
+      "day": 1,
+      "mealType": "lunch",
+      "name": "Öğle Yemeği",
+      "description": "Soğuk domates çorbası, zeytinyağlı bamya veya ıspanak kökü salatası, ev turşusu.",
+      "carbs": 15
+    },
+    {
+      "day": 1,
+      "mealType": "dinner",
+      "name": "Akşam Yemeği",
+      "description": "Izgara biftek, karnabahar veya çoban salata, zeytinyağı ve limonla çeşnilendirilmiş.",
+      "carbs": 10
+    },
+
+    {
+      "day": 2,
+      "mealType": "breakfast",
+      "name": "Kahvaltı",
+      "description": "Pastırmalı sahanda yumurta, çoban salata, 10-15 zeytin, şekersiz çay / yeşil çay / sade kahve.",
+      "carbs": 10
+    },
+    {
+      "day": 2,
+      "mealType": "lunch",
+      "name": "Öğle Yemeği",
+      "description": "Paça çorbası (sirke + sarımsak), mevsim salatası (zeytinyağı + sirke), 5-6 ceviz.",
+      "carbs": 15
+    },
+    {
+      "day": 2,
+      "mealType": "dinner",
+      "name": "Akşam Yemeği",
+      "description": "Izgara palamut veya levrek, yeşil salata (marul + taze soğan + dereotu + limon).",
+      "carbs": 10
+    },
+
+    {
+      "day": 3,
+      "mealType": "breakfast",
+      "name": "Kahvaltı",
+      "description": "Tereyağlı sebzeli omlet (2 yumurta), 10-15 çiğ fındık veya badem, 10-15 zeytin, şekersiz çay / sade kahve.",
+      "carbs": 10
+    },
+    {
+      "day": 3,
+      "mealType": "lunch",
+      "name": "Öğle Yemeği",
+      "description": "İşkembe çorbası (sirke + sarımsak), börülce veya Brüksel lahanası salatası (zeytinyağı + limon + kaya tuzu).",
+      "carbs": 15
+    },
+    {
+      "day": 3,
+      "mealType": "dinner",
+      "name": "Akşam Yemeği",
+      "description": "Çeşnili tavuk ızgara (kimyon, kekik, zerdeçal, sarımsak, zeytinyağı), tere veya çoban salata, ev turşusu.",
+      "carbs": 10
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "supplements": [
+    {
+      "id": "probiotic-enteric",
+      "name": "Enterik Probiyotik Kapsül",
+      "time": "Kahvaltıdan 30 dk önce",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "olive-leaf",
+      "name": "Zeytin Yaprağı Kapsülü",
+      "time": "Kahvaltıdan 30 dk önce",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "krill-oil-am",
+      "name": "Krill Yağı Kapsülü",
+      "time": "Kahvaltıdan 1 saat sonra",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "magnesium-200",
+      "name": "Magnezyum 200 mg",
+      "time": "Kahvaltıdan 1 saat sonra",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "devit3-300k",
+      "name": "Devit-3 (300.000 IU) — tek doz",
+      "time": "Kahvaltıdan 1.5 saat sonra (zeytinyağı ile)",
+      "days": [1]
+    },
+    {
+      "id": "fenugreek",
+      "name": "Çemen Otu Kapsülü",
+      "time": "Öğle yemeğinden 30 dk önce",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "probiotic-enteric-pm",
+      "name": "Enterik Probiyotik Kapsül",
+      "time": "Akşam yemeğinden 30 dk önce",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "olive-leaf-pm",
+      "name": "Zeytin Yaprağı Kapsülü",
+      "time": "Akşam yemeğinden 30 dk önce",
+      "days": [1, 2, 3]
+    },
+    {
+      "id": "krill-oil-pm",
+      "name": "Krill Yağı Kapsülü",
+      "time": "Akşam yemeğinden 1 saat sonra",
+      "days": [1, 2, 3]
+    }
+  ]
+}

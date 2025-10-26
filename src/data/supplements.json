@@ -1,0 +1,5 @@
+cat > ~/diadefense/src/data/supplements.json << 'EOF'
+{ "supplements": [
+  { "id":"d1-s1", "day":1, "name":"...", "dose":"...", "note":"" }
+] }
+EOF

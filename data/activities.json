@@ -1,0 +1,7 @@
+{
+  "activities": [
+    { "day": 1, "title": "Yürüyüş", "minutes": 15, "intensity": "low" },
+    { "day": 2, "title": "Esneme + Nefes Egzersizi", "minutes": 10, "intensity": "low" },
+    { "day": 3, "title": "Kısa Egzersiz Rutinleri", "minutes": 20, "intensity": "medium" }
+  ]
+}

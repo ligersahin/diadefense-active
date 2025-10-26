@@ -1,0 +1,6 @@
+cat > ~/diadefense/src/data/motivations.json << 'EOF'
+{ "motivations": [
+  { "when":"morning", "text":"Bugün küçük ama tutarlı adımlar: Şekerini sen yönetirsin." },
+  { "when":"evening", "text":"Günün için teşekkür et: Yarın daha da düzenli olacaksın." }
+] }
+EOF
